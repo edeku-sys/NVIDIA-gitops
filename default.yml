@@ -16,7 +16,7 @@ org_settings:
   org_info:
     org_name: Fleet
   fleet_desktop:
-    transperency_url: https://fleet-x0y2.onrender.com
+    transparency_url: https://fleet-x0y2.onrender.com
   host_expiry_settings:
     host_expiry_enabled: true
     host_expiry_window: 30
